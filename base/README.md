@@ -1,22 +1,22 @@
-## Dinero - Multi Account Money Tracker
-Dinero is a multi account money tracker. It is a simple application that allows you to track your money in multiple accounts and categories. It is written in PHP (Laravel Framework) and  Filament v3.
+## FilamentPersonalFinance
+FilamentPersonalFinance é um aplicativo intuitivo e poderoso para gerenciamento de finanças pessoais, projetado para ajudá-lo a controlar suas finanças de maneira eficaz e simplificada.
 
-## Features
-- Multi Account (Tenants)
-- Multi Currency
-- Wallets
-- Categories
-- Budgets
-- Goals
-- Debts
-- Transactions
-- Reports
+## Funcionalidades
+- Multi conta
+- Multi Moeda
+- Carteiras
+- Categorias
+- Orçamentos
+- Metas
+- Dívidas
+- Transações
+- Relatórios
 
-## Installation
-1. Clone the repository
-2. Run `composer install`
-3. Run `php artisan migrate --seed`
-4. Login with the following credentials:
-    - Email: `demo@dinero.app`
+## Instalação
+1. Clonar o repositório
+2. Executar `composer install`
+3. Executar `php artisan migrate --seed`
+4. Faça login com as seguintes credenciais:
+    - Email: `admin@email.com`
     - Password: `12345678`
 
